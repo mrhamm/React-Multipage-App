@@ -1,3 +1,8 @@
+# About this Repo
+
+This repository contains a boilerplate for a React-App with multiple pages and components.  Navigation bar template is included.  One may add new components - in this case be sure to update the imports and exports for the App.js, and index.js files.  
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
